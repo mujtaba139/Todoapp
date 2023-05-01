@@ -88,3 +88,7 @@ ul li span:hover{
     background: #9fa1a3;
     
 }
+#task_statement:hover{
+    background: dodgerblue;
+    color: black;
+}
